@@ -1,0 +1,2 @@
+# GAR
+General Autoregressive Model
